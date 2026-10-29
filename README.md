@@ -1,5 +1,7 @@
 # Urja Meter Ops - README
 
+VIDEO EXPLANATION : https://www.youtube.com/watch?v=K2mfPQiRlKM
+
 A small Python (FastAPI) service that logs into the Urja portal, pulls the signed
 bulk export, repairs the hierarchy, and serves a clean JSON API.
 
